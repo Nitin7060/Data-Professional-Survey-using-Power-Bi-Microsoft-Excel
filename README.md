@@ -8,3 +8,8 @@ Data professionals are in high demand, and organizations are looking for ways to
 
 
 The Power BI dashboard provides valuable insights. By presenting the data in a visually compelling way, the dashboard makes it easy to understand the key findings of the survey.
+
+
+![Screenshot (49)](https://github.com/Nitin7060/Data-Professional-Survey-using-Power-Bi-Microsoft-Excel/assets/103632805/26b051a5-ce9a-440e-b99c-dc6adbf1c0d9)
+
+![Screenshot (50)](https://github.com/Nitin7060/Data-Professional-Survey-using-Power-Bi-Microsoft-Excel/assets/103632805/5d6aaeb8-7fc5-46d3-9227-f18b41a4e9d0)
